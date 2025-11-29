@@ -1,0 +1,9 @@
+# This file just forces GitHub to create the folder structure
+paper/
+src/
+figures/
+notebooks/
+data/
+results/
+LICENSE
+requirements.txt
