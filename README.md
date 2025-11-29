@@ -3,7 +3,7 @@
 
 Amir Amini  
 King Delo Knowledge Research Group, Australia  
-AI Collaboration: ChatGPT, Grok, Deepseek, Qwen, Manus  
+  
 Dated: 29 November 2025
 
 **Key result:**  
