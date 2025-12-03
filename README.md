@@ -2,7 +2,7 @@
 **The Origin of Matter from Dual-Field Symmetry Breaking**
 
 Amir Amini  
-King Delo Knowledge Research Group, Australia  
+King Delo Knowledge Research Institute, Australia  
   
 Dated: 29 November 2025
 
